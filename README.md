@@ -1,8 +1,4 @@
-
-<!--
-**vasanth-void-0x/vasanth-void-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=220&section=header&text=VASANTH%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Security%20Analyst%20%7C%20Jr.%20Penetration%20Tester&descAlignY=58&descSize=20" width="100%"/>
 
@@ -147,4 +143,4 @@ Currently building out new SOC automation and detection-engineering projects. Wa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
 
-</div> to get you started:
+</div>
