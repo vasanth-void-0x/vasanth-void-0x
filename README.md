@@ -1,85 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=220&section=header&text=VASANTH%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Security%20Analyst%20%7C%20Jr.%20Penetration%20Tester&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=VASANTH%20KUMAR&fontSize=50&fontColor=39FF14&fontAlignY=40&desc=%3E%20SOC_Analyst%20%7C%20Security_Analyst%20%7C%20Jr.Pentester_%20%F0%9F%91%BD&descAlignY=65&descSize=16&descColor=39FF14" width="100%"/>
 
-<a href="https://linkedin.com/in/vasanth-2k4">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:iamvasanth2k4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/vasanth-void-0x">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=root%40vasanth%3A~%23+initializing_soc_ops...;%3E+scanning_network...+threats_detected%3A+0;%3E+decrypting_signal_from_planet_earth+%F0%9F%91%BD;%3E+access_granted+..._welcome_analyst" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Threat+Detection+%7C+Incident+Response+%7C+SOC+Operations;Building+AI-powered+SOC+automation+tools;Splunk+%7C+MITRE+ATT%26CK+%7C+Wireshark+%7C+Kali+Linux;Open+to+SOC+Analyst+%26+Jr.+Pentester+roles" alt="Typing SVG" />
+<a href="https://linkedin.com/in/vasanth-2k4"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="mailto:iamvasanth2k4@gmail.com"><img src="https://img.shields.io/badge/GMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://github.com/vasanth-void-0x"><img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/></a>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-
-```yaml
-role:          SOC Analyst | Security Analyst | Jr. Penetration Tester
-education:     B.Sc. Cybersecurity & Digital Forensics (2026)
-location:      Tamil Nadu, India — Open to Coimbatore / Chennai / Bangalore
-focus:         Threat Detection · SIEM · Incident Response · Threat Hunting
-currently:     Preparing for eJPT · Building AI-driven SOC automation tools
-fun_fact:      I automate the SOC work I haven't been hired to do yet 😄
+```ansi
+┌──────────────────────────────────────────────────────────┐
+│  [SYSTEM LOG] transmission received from unknown origin   │
+│  species     : half-human // half-hacker 👽               │
+│  mission     : detect. analyze. respond. repeat.          │
+│  status      : actively scanning for SOC Analyst roles    │
+│  base        : Tamil Nadu, India (deployable: CBE/CHN/BLR)│
+└──────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-## 🛡️ Core Skills
+## 👽 &nbsp;`whoami`
+
+```yaml
+class:         B.Sc. Cybersecurity & Digital Forensics [2026]
+specialty:     Threat Detection · SIEM · Incident Response · Threat Hunting
+current_ops:   Preparing eJPT | Building autonomous SOC bots
+weakness:      None found. (Yet.)
+transmission:  iamvasanth2k4@gmail.com
+```
+
+<br/>
+
+## 🛰️ &nbsp;Arsenal
 
 <div align="center">
 
-**SOC & SIEM**
+<img src="https://img.shields.io/badge/Splunk-39FF14?style=for-the-badge&logo=splunk&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Wazuh-39FF14?style=for-the-badge&logo=wazuh&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-39FF14?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Sentinel-39FF14?style=for-the-badge&logo=microsoftazure&logoColor=0D1117&labelColor=0D1117"/>
 <br/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-3AB6E0?style=flat-square&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C1272D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-**Threat Detection & Pentesting**
+<img src="https://img.shields.io/badge/Wireshark-39FF14?style=for-the-badge&logo=wireshark&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&logo=nmap&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Metasploit-39FF14?style=for-the-badge&logo=metasploit&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Kali_Linux-39FF14?style=for-the-badge&logo=kalilinux&logoColor=0D1117&labelColor=0D1117"/>
 <br/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-
-**Programming & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scapy-13315C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Autopsy-0B4F6C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnubash&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Scapy-39FF14?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Autopsy-39FF14?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🧬 &nbsp;Deployed Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Threat Hunting Dashboard](https://github.com/vasanth-void-0x/Threat-Hunting-Dashboard)
-SOC operations dashboard with a D3.js world map for live attacker geolocation, MITRE ATT&CK technique mapping, VirusTotal threat-intel lookups, and automated PDF incident reports.
+**`[01]` [Threat Hunting Dashboard](https://github.com/vasanth-void-0x/Threat-Hunting-Dashboard)**
+> SOC ops dashboard — D3.js live attacker geolocation, MITRE ATT&CK mapping, VirusTotal intel, auto-PDF reports.
 
-`Python` `Flask` `D3.js` `MITRE ATT&CK` `VirusTotal API`
+`Python` `Flask` `D3.js` `VirusTotal API`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [AI-Driven SOC Monitor](https://github.com/vasanth-void-0x/AI-SOC-Monitor)
-Real-time packet capture with Scapy + Groq LLaMA 3.3 for automated threat classification (Port Scan, SYN Flood, Brute Force) with severity scoring — cut manual triage effort by 80%.
+**`[02]` [AI-SOC Monitor](https://github.com/vasanth-void-0x/AI-SOC-Monitor)**
+> Real-time packet capture + Groq LLaMA 3.3 threat classification. Cut manual triage by 80%.
 
 `Python` `Scapy` `Groq AI` `Streamlit`
 
@@ -88,16 +85,18 @@ Real-time packet capture with Scapy + Groq LLaMA 3.3 for automated threat classi
 <tr>
 <td width="50%" valign="top">
 
-### 🛑 [AI-IDS Auto-Blocker](https://github.com/vasanth-void-0x/AI-IDS-Blocker)
-AI-based IDS/IPS that classifies suspicious traffic in real time and auto-blocks malicious IPs via Windows Firewall — an end-to-end automated incident-response pipeline.
+**`[03]` [AI-IDS Auto-Blocker](https://github.com/vasanth-void-0x/AI-IDS-Blocker)**
+> Autonomous IDS/IPS — classifies + auto-blocks malicious IPs via Windows Firewall in real time.
 
 `Python` `Groq AI` `Windows Firewall`
 
 </td>
 <td width="50%" valign="top">
 
-### 📌 More coming soon...
-Currently building out new SOC automation and detection-engineering projects. Watch this space 👀
+**`[04]` [ ??? ]**
+> Signal incoming... new detection-engineering project compiling. 👽📡
+
+`stay_tuned`
 
 </td>
 </tr>
@@ -105,42 +104,48 @@ Currently building out new SOC automation and detection-engineering projects. Wa
 
 <br/>
 
-## 📊 GitHub Stats
+## 📡 &nbsp;Transmission Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vasanth-void-0x&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-void-0x&layout=compact&theme=transparent&title_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vasanth-void-0x&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-void-0x&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=vasanth-void-0x&theme=transparent&hide_border=false&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864"/>
+<img src="https://streak-stats.demolab.com?user=vasanth-void-0x&theme=dark&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanth-void-0x&theme=minimal&hide_border=true&color=1F3864&line=1F3864&point=222222"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanth-void-0x&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true"/>
 </div>
 
 <br/>
 
-## 🏆 Certifications
+## 🎖️ &nbsp;Clearance Level
 
-- 🎯 TryHackMe — SOC Level 1 Path (Completed)
-- 🎯 TryHackMe — Jr. Penetration Tester Path (Completed)
-- 🎯 eJPT (eLearnSecurity Junior Penetration Tester) — In Progress
+```diff
++ TryHackMe — SOC Level 1 Path .......... [COMPLETE]
++ TryHackMe — Jr. Penetration Tester .... [COMPLETE]
+! eJPT — eLearnSecurity Jr. Pentester ... [IN PROGRESS]
+```
 
 <br/>
 
 <div align="center">
 
-### 📫 Let's Connect
+### 🛸 &nbsp;Open Transmission Channels
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanth-2k4)
-[![Gmail](https://img.shields.io/badge/-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamvasanth2k4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/vasanth-2k4)
+[![Gmail](https://img.shields.io/badge/-TRANSMIT-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:iamvasanth2k4@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vasanth-void-0x&color=1F3864&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vasanth-void-0x&color=39FF14&style=for-the-badge&label=SIGNALS+RECEIVED)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer"/>
+
+`// end of transmission_` 👽
 
 </div>
