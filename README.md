@@ -62,24 +62,64 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,powershell,bash,linux,git,github,docker,azure,fastapi,ts,react&theme=dark" alt="Languages and development tools" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,powershell,bash,py,docker,githubactions,azure,postman&theme=dark&perline=10" alt="Kali Linux and security engineering tools" />
+</a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=flat-square&logo=splunk&logoColor=00F5A0" alt="Splunk" />
-<img src="https://img.shields.io/badge/SIEM-Wazuh-005571?style=flat-square&logoColor=white" alt="Wazuh" />
-<img src="https://img.shields.io/badge/SIEM-Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
-<img src="https://img.shields.io/badge/Endpoint-Sysmon-1F6FEB?style=flat-square&logo=windows&logoColor=white" alt="Sysmon" />
-<img src="https://img.shields.io/badge/Framework-MITRE_ATT%26CK-E34F26?style=flat-square&logoColor=white" alt="MITRE ATT&CK" />
-
+<sub><strong>SIEM // MONITORING // ENDPOINT</strong></sub>
 <br />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00F5A0" alt="Splunk" />
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
+<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=00F5A0" alt="Elastic SIEM" />
+<img src="https://img.shields.io/badge/Sysmon-101820?style=for-the-badge&logo=windows&logoColor=00D9FF" alt="Sysmon" />
 
-<img src="https://img.shields.io/badge/Network-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Recon-Nmap-214478?style=flat-square&logoColor=white" alt="Nmap" />
-<img src="https://img.shields.io/badge/AppSec-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Detection-YARA-6E40C9?style=flat-square&logoColor=white" alt="YARA" />
-<img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Intel-VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
+<br /><br />
+
+<sub><strong>NETWORK // DETECTION // THREAT INTEL</strong></sub>
+<br />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logoColor=white" alt="Snort" />
+<img src="https://img.shields.io/badge/Zeek-101820?style=for-the-badge&logoColor=00F5A0" alt="Zeek" />
+<img src="https://img.shields.io/badge/Suricata-F15A24?style=for-the-badge&logoColor=white" alt="Suricata" />
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-E34F26?style=for-the-badge&logoColor=white" alt="MITRE ATT&CK" />
+
+<br /><br />
+
+<sub><strong>VAPT // WEB SECURITY</strong></sub>
+<br />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" alt="Nessus" />
+<img src="https://img.shields.io/badge/Nikto-101820?style=for-the-badge&logoColor=00F5A0" alt="Nikto" />
+<img src="https://img.shields.io/badge/Gobuster-101820?style=for-the-badge&logoColor=00F5A0" alt="Gobuster" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+
+<br /><br />
+
+<sub><strong>DFIR // DETECTION ENGINEERING</strong></sub>
+<br />
+<img src="https://img.shields.io/badge/YARA-6E40C9?style=for-the-badge&logoColor=white" alt="YARA" />
+<img src="https://img.shields.io/badge/Sigma-101820?style=for-the-badge&logoColor=00F5A0" alt="Sigma" />
+<img src="https://img.shields.io/badge/Volatility-6A1B9A?style=for-the-badge&logoColor=white" alt="Volatility" />
+<img src="https://img.shields.io/badge/Autopsy-2F4F4F?style=for-the-badge&logoColor=white" alt="Autopsy" />
+<img src="https://img.shields.io/badge/FTK_Imager-0B3D91?style=for-the-badge&logoColor=white" alt="FTK Imager" />
+<img src="https://img.shields.io/badge/CyberChef-101820?style=for-the-badge&logoColor=00F5A0" alt="CyberChef" />
+
+<br /><br />
+
+<sub><strong>AUTOMATION // DEVSECOPS</strong></sub>
+<br />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </div>
 
