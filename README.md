@@ -67,12 +67,13 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<h4>📡 SIEM // MONITORING // ENDPOINT</h4>
+<h4>📡 SIEM // EDR // ENDPOINT</h4>
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00F5A0" alt="Splunk" />
 <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
 <img src="https://img.shields.io/badge/Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=00F5A0" alt="Elastic SIEM" />
 <img src="https://img.shields.io/badge/Sysmon-101820?style=flat-square&logo=windows&logoColor=00D9FF" alt="Sysmon" />
+<img src="https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=flat-square&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
 </td>
 <td width="50%" valign="top" align="center">
 <h4>🌐 NETWORK // DETECTION // INTEL</h4>
@@ -94,6 +95,9 @@
 <img src="https://img.shields.io/badge/Nikto-101820?style=flat-square&logoColor=00F5A0" alt="Nikto" />
 <img src="https://img.shields.io/badge/Gobuster-101820?style=flat-square&logoColor=00F5A0" alt="Gobuster" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+<img src="https://img.shields.io/badge/Hashcat-101820?style=flat-square&logoColor=00F5A0" alt="Hashcat" />
+<img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logoColor=white" alt="John the Ripper" />
+<img src="https://img.shields.io/badge/Hydra-1B5E20?style=flat-square&logoColor=white" alt="Hydra" />
 </td>
 <td width="50%" valign="top" align="center">
 <h4>🔬 DFIR // DETECTION ENGINEERING</h4>
@@ -114,16 +118,17 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/MCP-Tool_Integration-101820?style=flat-square&logo=modelcontextprotocol&logoColor=00F5A0" alt="Model Context Protocol" />
 </td>
 </tr>
 </table>
 
 | Security Area | Operational Capability |
 |---|---|
-| **SIEM & Monitoring** | Splunk, Wazuh, Microsoft Sentinel, Sysmon |
+| **SIEM, EDR & Monitoring** | Splunk, Wazuh, Microsoft Sentinel, Sysmon, Microsoft Defender for Endpoint |
 | **Detection & Response** | Alert triage, MITRE ATT&CK, IOC enrichment, YARA, VirusTotal |
-| **Network & AppSec** | Wireshark, Nmap, Burp Suite |
-| **Automation** | Python, PowerShell, Bash, FastAPI, Docker, n8n |
+| **Network, VAPT & AppSec** | Wireshark, Nmap, Burp Suite, Metasploit, Hashcat, John the Ripper, Hydra |
+| **Automation** | Python, PowerShell, Bash, FastAPI, Docker, n8n, MCP tool integration |
 | **Cloud & Development** | Azure, GitHub Actions, TypeScript, React |
 
 ## `// FEATURED_OPERATIONS`
