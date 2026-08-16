@@ -99,81 +99,62 @@
 <tr>
 <td width="50%" valign="top">
 
-### 01 — [iTRAP](https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform)
-
-**Identity Threat Response Automation Platform**
-
-Identity threat detection, risk scoring, investigation, and response automation.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0)](https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=streamlit&logoColor=white)](https://itrap-soc-center.streamlit.app/)
+<h3>01 — <a href="https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform">iTRAP</a></h3>
+<p><strong>Identity Threat Response Automation Platform</strong></p>
+<p>Identity threat detection, risk scoring, investigation, and response automation.</p>
+<a href="https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="iTRAP repository" /></a>
+<a href="https://itrap-soc-center.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=streamlit&logoColor=white" alt="iTRAP live demo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — [AegisFlow](https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation)
-
-**SOC Investigation & Response Orchestrator**
-
-Alert enrichment, RAG-assisted investigation, MCP security tools, audit logging, and human approval gates.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0)](https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation)
+<h3>02 — <a href="https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation">AegisFlow</a></h3>
+<p><strong>SOC Investigation &amp; Response Orchestrator</strong></p>
+<p>Alert enrichment, RAG-assisted investigation, MCP security tools, audit logging, and human approval gates.</p>
+<a href="https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="AegisFlow repository" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 — [AgentShield](https://github.com/vasanth-void-0x/AgentShield---AI-Gateway)
-
-**Agentic Security Gateway**
-
-Policy enforcement, safe tool access, prompt protection, secret redaction, and auditability.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0)](https://github.com/vasanth-void-0x/AgentShield---AI-Gateway)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=cloudflare&logoColor=white)](https://agent-shield.iamvasanth2k4.workers.dev/)
+<h3>03 — <a href="https://github.com/vasanth-void-0x/AgentShield---AI-Gateway">AgentShield</a></h3>
+<p><strong>Agentic Security Gateway</strong></p>
+<p>Policy enforcement, safe tool access, prompt protection, secret redaction, and auditability.</p>
+<a href="https://github.com/vasanth-void-0x/AgentShield---AI-Gateway"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="AgentShield repository" /></a>
+<a href="https://agent-shield.iamvasanth2k4.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=cloudflare&logoColor=white" alt="AgentShield live demo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — [DFIR Copilot](https://github.com/vasanth-void-0x/DFIR-Copilot)
-
-**Evidence-First Digital Forensics Workbench**
-
-Structured evidence handling, timeline investigation, integrity validation, and analyst-ready reporting.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0)](https://github.com/vasanth-void-0x/DFIR-Copilot)
-[![Windows Release](https://img.shields.io/badge/WINDOWS-RELEASE-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/vasanth-void-0x/DFIR-Copilot/releases)
+<h3>04 — <a href="https://github.com/vasanth-void-0x/DFIR-Copilot">DFIR Copilot</a></h3>
+<p><strong>Evidence-First Digital Forensics Workbench</strong></p>
+<p>Structured evidence handling, timeline investigation, integrity validation, and analyst-ready reporting.</p>
+<a href="https://github.com/vasanth-void-0x/DFIR-Copilot"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="DFIR Copilot repository" /></a>
+<a href="https://github.com/vasanth-void-0x/DFIR-Copilot/releases"><img src="https://img.shields.io/badge/WINDOWS-RELEASE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="DFIR Copilot Windows release" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 — [ChainGuard](https://github.com/vasanth-void-0x/ChainGuard)
-
-**Automated DevSecOps Security Pipeline**
-
-Repeatable SAST, secret, container, and software supply-chain scanning with actionable findings.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0)](https://github.com/vasanth-void-0x/ChainGuard)
+<h3>05 — <a href="https://github.com/vasanth-void-0x/ChainGuard">ChainGuard</a></h3>
+<p><strong>Automated DevSecOps Security Pipeline</strong></p>
+<p>Repeatable SAST, secret, container, and software supply-chain scanning with actionable findings.</p>
+<a href="https://github.com/vasanth-void-0x/ChainGuard"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="ChainGuard repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Operating Principle
-
-```text
-DETECT
+<h3>⚡ Operating Principle</h3>
+<pre>DETECT
   └─ INVESTIGATE
        └─ AUTOMATE SAFELY
-            └─ RESPOND WITH EVIDENCE
-```
+            └─ RESPOND WITH EVIDENCE</pre>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
