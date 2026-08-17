@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/soc-profile-hero.svg" width="100%" alt="Vasanth Kumar — SOC Analyst and Security Automation" />
+<img src="https://raw.githubusercontent.com/vasanth-void-0x/vasanth-void-0x/main/assets/soc-profile-hero.svg" width="100%" alt="Vasanth Kumar — SOC Analyst and Security Automation" />
 
 <br />
 
