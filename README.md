@@ -4,24 +4,17 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/vasanth-2k4">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:iamvasanth2k4@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://vasanth-portfolio-ten.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/vasanth-void-0x?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-101820?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub projects" />
-</a>
+<a href="https://www.linkedin.com/in/vasanth-2k4"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:iamvasanth2k4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://vasanth-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/vasanth-void-0x?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-101820?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub projects" /></a>
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F5A0?style=flat-square&labelColor=07141B&color=00A878" alt="Open to work" />
-<img src="https://img.shields.io/badge/TARGET-SOC_ANALYST_L1-00D9FF?style=flat-square&labelColor=07141B&color=087E8B" alt="Target role SOC Analyst L1" />
-<img src="https://img.shields.io/badge/MODE-BLUE_TEAM-9EF01A?style=flat-square&labelColor=07141B&color=2D6A4F" alt="Blue team" />
+<img src="https://img.shields.io/badge/TARGET-SOC_ANALYST_%2F%2F_CYBERSECURITY_ANALYST-00D9FF?style=flat-square&labelColor=07141B&color=087E8B" alt="Target SOC Analyst and Cybersecurity Analyst roles" />
+<img src="https://img.shields.io/badge/FOCUS-AI_SECURITY_%2F%2F_BLUE_TEAM-FF4D6D?style=flat-square&labelColor=07141B&color=8B1E3F" alt="AI Security and Blue Team focus" />
+<img src="https://img.shields.io/badge/BUILD-SECURITY_TOOLS_%2F%2F_AUTOMATION-9EF01A?style=flat-square&labelColor=07141B&color=2D6A4F" alt="Security tools and automation" />
 
 </div>
 
@@ -39,7 +32,7 @@
   <li><strong>B.Sc. Cybersecurity & Digital Forensics</strong> graduate — 2026</li>
   <li>Focused on SOC monitoring, alert triage, threat hunting, incident response, and DFIR</li>
   <li>Hands-on with SIEM workflows, IOC enrichment, MITRE ATT&CK mapping, and endpoint telemetry</li>
-  <li>Building practical, evidence-driven security projects for real operational workflows</li>
+  <li>Exploring AI and agent security through LLM, RAG, MCP, and security automation projects</li>
 </ul>
 
 </td>
@@ -49,9 +42,9 @@
 
 <ul>
   <li>Improve investigation speed while keeping analyst control</li>
-  <li>Build safe automation using approval gates and audit trails</li>
-  <li>Strengthen detection engineering and incident communication</li>
-  <li>Open to entry-level <strong>SOC Analyst</strong> and <strong>Security Analyst</strong> roles</li>
+  <li>Build safe security automation using approval gates, audit trails, and MCP-integrated tools</li>
+  <li>Develop practical defenses for AI/LLM and agentic security workflows</li>
+  <li>Open to entry-level <strong>SOC Analyst</strong> and <strong>Cybersecurity Analyst</strong> roles</li>
 </ul>
 
 </td>
@@ -136,60 +129,48 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3>01 — <a href="https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform">iTRAP</a></h3>
 <p><strong>Identity Threat Response Automation Platform</strong></p>
 <p>Identity threat detection, risk scoring, investigation, and response automation.</p>
 <a href="https://github.com/vasanth-void-0x/Identity-Threat-Response-Automation-Platform"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="iTRAP repository" /></a>
 <a href="https://itrap-soc-center.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=streamlit&logoColor=white" alt="iTRAP live demo" /></a>
-
 </td>
 <td width="50%" valign="top">
-
 <h3>02 — <a href="https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation">AegisFlow</a></h3>
 <p><strong>SOC Investigation &amp; Response Orchestrator</strong></p>
 <p>Alert enrichment, RAG-assisted investigation, MCP security tools, audit logging, and human approval gates.</p>
 <a href="https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="AegisFlow repository" /></a>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 <h3>03 — <a href="https://github.com/vasanth-void-0x/AgentShield---AI-Gateway">AgentShield</a></h3>
 <p><strong>Agentic Security Gateway</strong></p>
 <p>Policy enforcement, safe tool access, prompt protection, secret redaction, and auditability.</p>
 <a href="https://github.com/vasanth-void-0x/AgentShield---AI-Gateway"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="AgentShield repository" /></a>
 <a href="https://agent-shield.iamvasanth2k4.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-ONLINE-00A878?style=flat-square&logo=cloudflare&logoColor=white" alt="AgentShield live demo" /></a>
-
 </td>
 <td width="50%" valign="top">
-
 <h3>04 — <a href="https://github.com/vasanth-void-0x/DFIR-Copilot">DFIR Copilot</a></h3>
 <p><strong>Evidence-First Digital Forensics Workbench</strong></p>
 <p>Structured evidence handling, timeline investigation, integrity validation, and analyst-ready reporting.</p>
 <a href="https://github.com/vasanth-void-0x/DFIR-Copilot"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="DFIR Copilot repository" /></a>
 <a href="https://github.com/vasanth-void-0x/DFIR-Copilot/releases"><img src="https://img.shields.io/badge/WINDOWS-RELEASE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="DFIR Copilot Windows release" /></a>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 <h3>05 — <a href="https://github.com/vasanth-void-0x/ChainGuard">ChainGuard</a></h3>
 <p><strong>Automated DevSecOps Security Pipeline</strong></p>
 <p>Repeatable SAST, secret, container, and software supply-chain scanning with actionable findings.</p>
 <a href="https://github.com/vasanth-void-0x/ChainGuard"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00F5A0" alt="ChainGuard repository" /></a>
-
 </td>
 <td width="50%" valign="top">
-
 <h3>⚡ Operating Principle</h3>
 <pre>DETECT
   └─ INVESTIGATE
        └─ AUTOMATE SAFELY
             └─ RESPOND WITH EVIDENCE</pre>
-
 </td>
 </tr>
 </table>
@@ -199,7 +180,7 @@
 
 ### `vasanth@soc:~$ connect --secure`
 
-**Interested in SOC operations, blue-team security, DFIR, and security automation opportunities.**
+**Interested in SOC operations, AI security, blue-team security, DFIR, and security automation opportunities.**
 
 [LinkedIn](https://www.linkedin.com/in/vasanth-2k4) · [Email](mailto:iamvasanth2k4@gmail.com) · [Portfolio](https://vasanth-portfolio-ten.vercel.app/) · [Repositories](https://github.com/vasanth-void-0x?tab=repositories)
 
